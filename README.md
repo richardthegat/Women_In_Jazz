@@ -6,7 +6,7 @@ transformation as the decades rolled by.
  influential women in the genre, listed their accomplishments, and then presented them to my "Women in Music" class. Linked in this repository
  is the code and overall structure of the site. Additionally, You can view the live version of the site here:
 
-[ https://admirable-shortbread-088a2c.netlify.app](url)
+https://admirable-shortbread-088a2c.netlify.app
 
 
  
